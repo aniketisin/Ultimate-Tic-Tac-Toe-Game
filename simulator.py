@@ -1,7 +1,7 @@
 import sys
 import random
 import signal
-from team37 import *
+from dataset import *
 #Timer handler, helper function
 
 class TimedOutExc(Exception):
